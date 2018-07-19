@@ -2,8 +2,8 @@
 
 testing
 
-1 abc
-2 fred
+1. abc
+2. fred
 
 You can use the [editor on GitHub](https://github.com/KW-FoE/KW-FoE.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
