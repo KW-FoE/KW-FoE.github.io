@@ -1,1 +1,1 @@
-The Hall of Fame provides crowns to improve guild strength. Use of the HoFis optional. 
+The Hall of Fame provides crowns to improve guild strength. Use of the HoF is optional. 
