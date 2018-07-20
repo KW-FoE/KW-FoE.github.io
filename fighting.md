@@ -1,4 +1,4 @@
-## Battle Tips
+## Fighting Tips
 
 # Auto Battle Tips
 
