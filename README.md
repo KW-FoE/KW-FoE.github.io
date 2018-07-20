@@ -4,4 +4,4 @@ This page is some guides for the members of the Knights Watch Forge of Empires G
 
 # [Economics](Economics/)
 # [Building Guides](Buildings/)
-
+# [FOE Tools](https://foe-tools.github.io/)
