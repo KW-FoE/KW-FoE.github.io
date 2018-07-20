@@ -1,0 +1,3 @@
+## Battle Tips
+
+# Auto Battle
